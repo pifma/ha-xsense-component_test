@@ -50,6 +50,7 @@ ____________________________________________________________
 
 2. **Vai ai repository personalizzati**:
    Vai alle impostazioni nella dashboard di HACS e aggiungi il repository come fonte personalizzata.
+   (nelle nuove versioni: [3 puntini] > Archivi digitali personalizzati)
 
 3. **Aggiungi il repository**:
    Inserisci l'URL del repository: `https://github.com/Jarnsen/ha-xsense-component_test`
